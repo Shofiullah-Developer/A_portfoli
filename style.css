@@ -1,0 +1,135 @@
+
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+}
+.Top_section{
+    height: 1150px;
+}
+
+.navbar{
+    text-align: right;
+    padding: 35px;
+    margin-right: 60px;
+}
+.navbar a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+h1{
+    font-size: 50px;
+    line-height: 15px;
+}
+
+.colorful_text{
+    color:#FF8367;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 90%;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.space{
+    padding-bottom: 15px;
+}
+.half h2{
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+/* mid section */
+#worksection{
+    background-color: #F8F9FC;
+}
+.mid_section{
+    
+    height: 750px;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.mid-text{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+.projects{
+    width: 27%;
+    float: left;
+    padding: 5px 10px; 
+    margin: 2%;
+}
+.projects img{
+    width: 100%;
+    padding: 5px;
+    color: #FFFFFF;
+}
+.box-sado{
+    box-shadow: 10px 10px 40px rgb(223, 219, 219);
+    border-radius: 10px;
+    height: 45%;
+    background: white;
+    
+}
+
+/* inquiry */
+.inquiry{
+    position: relative;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 80px;
+    
+}
+.inquiry img{
+   
+    width: 100%;
+}
+.inquiry h2{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    color: #F8F9FC;
+    font-size: 40px;
+}
+.inquiry a{
+    position: absolute;
+    top: 45%;
+    right: 15%;
+}
+
+/* Contact us*/
+.contact h2{
+    margin: 40px;
+    margin-left: 400px;
+    padding-top: 65px;
+    font-size: 45px;
+}
+.contact table{
+    padding-left: 70px;
+}
+.input{
+    width: 300%;
+    padding: 10px;
+}
+.contact_form{
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+footer{
+    text-align: center;
+}
